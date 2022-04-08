@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{fill:none;stroke:#49A5DD;stroke-miterlimit:10;}
+	.st3{display:inline;fill:none;stroke:#49A5DD;stroke-miterlimit:10;}
+	.st4{fill:#0575E6;}
+	.st5{fill:#FFFFFF;}
+</style>
+<g id="Capa_1" class="st0">
+	<g class="st1">
+		<rect x="4" y="4" class="st2" width="120" height="120"/>
+		<line class="st2" x1="4" y1="104" x2="124" y2="104"/>
+		<line class="st2" x1="4" y1="84" x2="124" y2="84"/>
+		<line class="st2" x1="4" y1="64" x2="124" y2="64"/>
+		<line class="st2" x1="4" y1="44" x2="124" y2="44"/>
+		<line class="st2" x1="4" y1="24" x2="124" y2="24"/>
+		<line class="st2" x1="104" y1="4" x2="104" y2="124"/>
+		<line class="st2" x1="84" y1="4" x2="84" y2="124"/>
+		<line class="st2" x1="64" y1="4" x2="64" y2="124"/>
+		<line class="st2" x1="44" y1="4" x2="44" y2="124"/>
+		<line class="st2" x1="24" y1="4" x2="24" y2="124"/>
+	</g>
+	<circle class="st3" cx="64" cy="64" r="64"/>
+	<circle class="st3" cx="64" cy="64" r="40"/>
+	<line class="st3" x1="4" y1="124" x2="124" y2="4"/>
+	<line class="st3" x1="4" y1="4" x2="124" y2="124"/>
+</g>
+<g id="Capa_2" class="st0">
+	
+		<image style="display:inline;overflow:visible;opacity:0.5;" width="512" height="512" xlink:href="consulta.png"  transform="matrix(0.2312 0 0 0.2312 4.8235 4.8235)">
+	</image>
+</g>
+<g id="Capa_3">
+	<path class="st4" d="M119.5,123.2H8.5c-2,0-3.7-1.6-3.7-3.7v-6.6c0-2,1.6-3.7,3.7-3.7h111c2,0,3.7,1.6,3.7,3.7v6.6
+		C123.2,121.5,121.5,123.2,119.5,123.2z"/>
+	<circle class="st4" cx="94.3" cy="60.8" r="14.2"/>
+	<path class="st4" d="M63.9,95.9H48l2.4,6.5H22.1l2.5-6.5H9.7c-2.4,0-4.3-1.9-4.3-4.3V58.3c0-2.4,1.9-4.3,4.3-4.3h54.2
+		c2.4,0,4.3,1.9,4.3,4.3v33.4C68.2,94,66.3,95.9,63.9,95.9z"/>
+	<path class="st4" d="M33.1,4.9h47.8c5.4,0,9.7,4.3,9.7,9.7v15c0,5.4-4.3,9.7-9.7,9.7h0c-1.1,0-2,0.9-2,2l0.1,4.2
+		c0,0.5-0.2,1-0.5,1.4l-0.6,0.6c-0.8,1.2-2.8,1.4-3.6,0.9l-12.9-8.8c-0.3-0.2-0.7-0.3-1-0.3H33.1c-5.4,0-9.7-4.3-9.7-9.7v-15
+		C23.4,9.3,27.8,4.9,33.1,4.9z"/>
+	<path class="st4" d="M81.9,77.8h24.2l0,0c5.2,3.7,9.1,8.9,11.4,14.9l0,0c0.3,0.8,0.5,1.6,0.5,2.4l0.3,7.3H69.6l0.1-1.8l0.4-0.5
+		c2.8-3.9,4.2-8.5,4.3-13.3l0-2.3l3.7-3.4L81.9,77.8z"/>
+	<path class="st5" d="M70.8,26.5H42c-2,0-3.6-1.6-3.6-3.6v0c0-2,1.6-3.6,3.6-3.6h28.8c2,0,3.6,1.6,3.6,3.6v0
+		C74.4,24.9,72.8,26.5,70.8,26.5z"/>
+</g>
+</svg>

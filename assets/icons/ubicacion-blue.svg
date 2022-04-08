@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{fill:none;stroke:#49A5DD;stroke-miterlimit:10;}
+	.st3{display:inline;fill:none;stroke:#49A5DD;stroke-miterlimit:10;}
+	.st4{fill:#0575E6;}
+	.st5{fill:#FFFFFF;}
+</style>
+<g id="Capa_1" class="st0">
+	<g class="st1">
+		<rect x="4" y="4" class="st2" width="120" height="120"/>
+		<line class="st2" x1="4" y1="104" x2="124" y2="104"/>
+		<line class="st2" x1="4" y1="84" x2="124" y2="84"/>
+		<line class="st2" x1="4" y1="64" x2="124" y2="64"/>
+		<line class="st2" x1="4" y1="44" x2="124" y2="44"/>
+		<line class="st2" x1="4" y1="24" x2="124" y2="24"/>
+		<line class="st2" x1="104" y1="4" x2="104" y2="124"/>
+		<line class="st2" x1="84" y1="4" x2="84" y2="124"/>
+		<line class="st2" x1="64" y1="4" x2="64" y2="124"/>
+		<line class="st2" x1="44" y1="4" x2="44" y2="124"/>
+		<line class="st2" x1="24" y1="4" x2="24" y2="124"/>
+	</g>
+	<circle class="st3" cx="64" cy="64" r="64"/>
+	<circle class="st3" cx="64" cy="64" r="40"/>
+	<line class="st3" x1="4" y1="124" x2="124" y2="4"/>
+	<line class="st3" x1="4" y1="4" x2="124" y2="124"/>
+</g>
+<g id="Capa_2" class="st0">
+	
+		<image style="display:inline;overflow:visible;opacity:0.5;" width="1000" height="1000" xlink:href="ubicacion2.jpg"  transform="matrix(0.1674 0 0 0.1674 -22.9706 -22.9706)">
+	</image>
+</g>
+<g id="Capa_3">
+	<polygon class="st4" points="45,84.2 13.4,98 26.4,74 40.1,74.5 	"/>
+	<polygon class="st4" points="52,97.4 34.8,113 5,113 10.8,102.6 46.6,87 	"/>
+	<polygon class="st4" points="122.5,113 39.7,113 60.4,94.1 120.1,107.7 	"/>
+	<polygon class="st4" points="59.6,90.8 54.6,95.2 43.8,74.6 66.7,74.4 81.1,90.9 95.6,74.6 104.6,74.6 118.4,104 	"/>
+	<path class="st4" d="M109.4,41.9c0-15.7-12.7-28.4-28.4-28.4S52.7,26.3,52.7,41.9c0,5.1,6.9,18.3,14.9,28.2
+		c1.7,2.1,13.5,16.5,13.5,16.5s7.5-7.8,12.7-14.4C97.6,67.5,109.4,48.5,109.4,41.9z"/>
+	<circle class="st5" cx="81.1" cy="40.8" r="8"/>
+</g>
+</svg>

@@ -1,0 +1,1 @@
+"use strict";var menu=document.getElementById("menu"),btnMenu=document.getElementById("btn-menu");btnMenu.addEventListener("click",(function(){menu.classList.toggle("main-nav--show")}));
